@@ -1,0 +1,46 @@
+<view class="head">
+<image src="../../images/cover.jpg"></image>
+<input type="text"/>
+</view>
+<view class="functions">
+<view class="fun-item">
+<image src="../../images/invite.png"></image>
+<text>?</text>
+</view>
+<view class="fun-item">
+<image src="../../images/invite.png"></image>
+<text>?</text>
+</view>
+<view class="fun-item">
+<image src="../../images/invite.png"></image>
+<text>?</text>
+</view>
+<view class="fun-item">
+<image src="../../images/invite.png"></image>
+<text>?</text>
+</view>
+<view class="fun-item">
+<image src="../../images/invite.png"></image>
+<text>?</text>
+</view>
+<view class="fun-item">
+<image src="../../images/invite.png"></image>
+<text>?</text>
+</view>
+<view class="fun-item">
+<image src="../../images/invite.png"></image>
+<text>?</text>
+</view>
+<view class="fun-item">
+<image src="../../images/invite.png"></image>
+<text>?</text>
+</view>
+</view>
+
+<view class="info">
+<input type="text" />
+<input type="text" />
+<input type="text" />
+<input type="text" />
+<input type="text" />
+</view>

@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/unknown/unknown",
+    "pages/unknown2/unknown2"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#DB7093",
+    "navigationBarTitleText": "校速达"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "./images/guest.png",
+        "selectedIconPath": "./images/guest.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/unknown/unknown",
+        "iconPath": "./images/guest.png",
+        "selectedIconPath": "./images/guest.png",
+        "text": "?"
+      },
+      {
+        "pagePath": "pages/unknown2/unknown2",
+        "iconPath": "./images/guest.png",
+        "selectedIconPath": "./images/guest.png",
+        "text": "?"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

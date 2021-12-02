@@ -1,0 +1,44 @@
+.head{
+  display: flex;
+  align-items: center;
+  background-color: #FFC0CB;
+  height: 100rpx;
+}
+.head > image{
+  margin: 0 50rpx;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+}
+.head > input{
+  width: 500rpx;
+  background: white;
+  border-radius: 5rpx;
+}
+.functions{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 50rpx 0;
+}
+.fun-item{
+ width: 180rpx;
+ height: 180rpx;
+}
+.fun-item image{
+  margin: 0 auto;
+width: 100rpx;
+height: 100rpx;
+display: flex;
+flex-direction: column;
+}
+.fun-item > text{
+  margin: 0 80rpx;
+}
+.info input{
+  border: 2rpx solid #FFC0CB;
+  margin: 30rpx 50rpx;
+}
+.info{
+  margin-top:80rpx ;
+}
